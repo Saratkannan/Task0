@@ -16,7 +16,7 @@ The basic idea of this task is to understand how collaborated projects work on g
  
 ### Algorithms to be implemented
 - Linear Search
-- Binary Search
+- Binary Search-----Srivatsav
 - Bubble sort-----Jerry
 - Insertion Sort
 - Merge sort
