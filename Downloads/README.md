@@ -4,5 +4,6 @@
 -Billionaire
 -Playboy
 -Philanthropist
-His titanium-gold alloyed armour gives him **super human strength**,**lightning quick reflexes**,**flight via boots** which when combined with his **genius intellect** makes him one of the *indomitable force* and *earth's best defender*
-
+> Heros are made by the path they choose not the power they are graced with
+> Run before you walk
+> - TonyStark
