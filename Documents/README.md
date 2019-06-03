@@ -1,5 +1,4 @@
 # TONT STARK a.k.a IRON MAN
-### THE INVICIBLE
 -Genius
 -Billionaire
 -Playboy
